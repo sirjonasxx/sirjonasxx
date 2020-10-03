@@ -4,6 +4,7 @@
 Contact me:
 * Twitter: [@sirjonasxx](https://twitter.com/sirjonasxx)
 * Discord: sirjonasxx#2633
+* Habbo: sirjonasxx-II (.com) | sirjonasxx-VII (.nl)
 
 If you have G-Earth related issues, check the [Troubleshooting page](https://github.com/sirjonasxx/G-Earth/wiki/Troubleshooting)
 
