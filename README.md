@@ -2,7 +2,7 @@
 
 
 Contact me:
-* Twitter: @sirjonasxx
+* Twitter: [@sirjonasxx](https://twitter.com/sirjonasxx)
 * Discord: sirjonasxx#2633
 
 If you have G-Earth related issues, check the [Troubleshooting page](https://github.com/sirjonasxx/G-Earth/wiki/Troubleshooting)
